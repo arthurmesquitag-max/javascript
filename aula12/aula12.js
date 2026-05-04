@@ -21,3 +21,4 @@ if(aluno2.ativo){
     console.log('Aluna ${aluno2.nome} não está com a matricula ativa');
 }
 
+

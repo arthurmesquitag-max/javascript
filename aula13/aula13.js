@@ -15,3 +15,6 @@ if(usuario.selecao === 'brasil'){
 }else{
     console.log(mensagemdeboasvindas2)
 }
+
+const mensagemDeEscolha = "clique no setor a qual deseja compra seu ingresso";
+const mensagemFinal = "divirta-se no maracanã";
